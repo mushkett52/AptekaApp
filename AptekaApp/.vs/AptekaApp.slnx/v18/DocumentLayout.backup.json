@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\orderspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\medicinespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\medicinespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\categoriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\categoriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\clientspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\displaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\displaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\clientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\displaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\displaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\clientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\supplierspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\supplierspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\orderspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\medicinespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\medicinespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\clientspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapp\\aptekaapp\\ordercompositionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\ordercompositionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\ordersuccesswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\ordersuccesswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\ordersuccesswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\ordersuccesswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\welcomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\welcomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\ordercompositionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\ordercompositionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mushkett\\AppData\\Local\\Temp\\.vsdbgsrc\\6e49d0e3362e819c471d6adc817bd4623cb7e49706207431eb3894a350d6ee7c\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\adminpages\\supplierspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\adminpages\\supplierspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\aptekaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23C80BA-F27B-4C49-88F7-5B274181E5C0}|AptekaApp\\AptekaApp.csproj|solutionrelative:aptekaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\MainWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\MainWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:30:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\ClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\ClientWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\ClientWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\ClientWindow.xaml.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAAOIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:47:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\DisplayWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\DisplayWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\DisplayWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\DisplayWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T15:17:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:36:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsPage.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\ClientsPage.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\ClientsPage.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\ClientsPage.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\ClientsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:43:47.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesPage.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\CategoriesPage.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\CategoriesPage.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\CategoriesPage.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\CategoriesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:42:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicinesPage.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\MedicinesPage.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\MedicinesPage.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\MedicinesPage.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\MedicinesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:33:36.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersPage.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\OrdersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\OrdersPage.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\OrdersPage.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\OrdersPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:44:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\LoginWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:35:25.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisplayWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\DisplayWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\DisplayWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\DisplayWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\DisplayWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:47:26.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\ClientWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\ClientWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\ClientWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\ClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:46:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:46:37.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:46:22.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SuppliersPage.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\SuppliersPage.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\SuppliersPage.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\SuppliersPage.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\SuppliersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T14:05:15.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersPage.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\OrdersPage.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\OrdersPage.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\OrdersPage.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\OrdersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T14:21:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientsPage.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\ClientsPage.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\ClientsPage.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\ClientsPage.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\ClientsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T14:21:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesPage.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\CategoriesPage.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\CategoriesPage.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\CategoriesPage.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\CategoriesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T14:05:01.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WelcomeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\WelcomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\WelcomeWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\WelcomeWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\WelcomeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:35:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderSuccessWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderSuccessWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\OrderSuccessWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderSuccessWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\OrderSuccessWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:43:57.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderCompositionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderCompositionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\OrderCompositionWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderCompositionWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\OrderCompositionWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:11:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\App.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\App.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\App.xaml",
+              "RelativeToolTip": "AptekaApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T13:37:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\App.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\App.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\App.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:35:02.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\mushkett\\AppData\\Local\\Temp\\.vsdbgsrc\\6e49d0e3362e819c471d6adc817bd4623cb7e49706207431eb3894a350d6ee7c\\FrameworkTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\mushkett\\AppData\\Local\\Temp\\.vsdbgsrc\\6e49d0e3362e819c471d6adc817bd4623cb7e49706207431eb3894a350d6ee7c\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\mushkett\\AppData\\Local\\Temp\\.vsdbgsrc\\6e49d0e3362e819c471d6adc817bd4623cb7e49706207431eb3894a350d6ee7c\\FrameworkTemplate.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\mushkett\\AppData\\Local\\Temp\\.vsdbgsrc\\6e49d0e3362e819c471d6adc817bd4623cb7e49706207431eb3894a350d6ee7c\\FrameworkTemplate.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAEsDAAAAAAAAAAAewGADAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:48:24.677Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderSuccessWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderSuccessWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\OrderSuccessWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderSuccessWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\OrderSuccessWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T14:43:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderCompositionWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderCompositionWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\OrderCompositionWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderCompositionWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\OrderCompositionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T14:11:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\CartItem.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\CartItem.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\CartItem.cs",
+              "RelativeToolTip": "AptekaApp\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:27:24.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\Model1.edmx",
+              "RelativeDocumentMoniker": "AptekaApp\\Model1.edmx",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "AptekaApp\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-12T15:07:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WelcomeWindow.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\WelcomeWindow.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\WelcomeWindow.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\WelcomeWindow.xaml",
+              "RelativeToolTip": "AptekaApp\\WelcomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-14T14:34:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminPages\\SuppliersPage.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\SuppliersPage.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\SuppliersPage.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\SuppliersPage.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\SuppliersPage.xaml.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T14:43:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderItem.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\OrderItem.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\OrderItem.cs",
+              "RelativeToolTip": "AptekaApp\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:10:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicinesPage.xaml",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\MedicinesPage.xaml",
+              "RelativeDocumentMoniker": "AptekaApp\\AdminPages\\MedicinesPage.xaml",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\AdminPages\\MedicinesPage.xaml",
+              "RelativeToolTip": "AptekaApp\\AdminPages\\MedicinesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-12T14:04:33.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AptekaApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaApp\\AptekaApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AptekaApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T13:30:09.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

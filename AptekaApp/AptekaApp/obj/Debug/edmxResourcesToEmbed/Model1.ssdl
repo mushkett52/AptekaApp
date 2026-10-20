@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище user11_dbModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="kurs_Category">
+    <Key>
+      <PropertyRef Name="id_category" />
+    </Key>
+    <Property Name="id_category" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="description" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="kurs_Client">
+    <Key>
+      <PropertyRef Name="id_client" />
+    </Key>
+    <Property Name="id_client" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_user" Type="int" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Patronymic" Type="varchar" MaxLength="50" />
+    <Property Name="Telephone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+    <Property Name="Adress" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="kurs_Medicine">
+    <Key>
+      <PropertyRef Name="id_Medicine" />
+    </Key>
+    <Property Name="id_Medicine" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="manufacturer" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="price" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="amount" Type="int" Nullable="false" />
+    <Property Name="expDate" Type="date" />
+    <Property Name="prescription" Type="bit" Nullable="false" />
+    <Property Name="id_supplier" Type="int" Nullable="false" />
+    <Property Name="id_category" Type="int" Nullable="false" />
+    <Property Name="minAmount" Type="int" />
+    <Property Name="imageUrl" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="kurs_Order">
+    <Key>
+      <PropertyRef Name="id_order" />
+    </Key>
+    <Property Name="id_order" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_client" Type="int" />
+    <Property Name="orderDate" Type="date" Nullable="false" />
+    <Property Name="sum" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="id_status" Type="int" Nullable="false" />
+    <Property Name="orderNumber" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="kurs_OrderSostav">
+    <Key>
+      <PropertyRef Name="id_sostav" />
+    </Key>
+    <Property Name="id_sostav" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_order" Type="int" Nullable="false" />
+    <Property Name="id_medicine" Type="int" Nullable="false" />
+    <Property Name="amount" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="kurs_Role">
+    <Key>
+      <PropertyRef Name="id_role" />
+    </Key>
+    <Property Name="id_role" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="kurs_Status">
+    <Key>
+      <PropertyRef Name="id_status" />
+    </Key>
+    <Property Name="id_status" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="kurs_Supplier">
+    <Key>
+      <PropertyRef Name="id_supplier" />
+    </Key>
+    <Property Name="id_supplier" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telephone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactPerson" Type="varchar" MaxLength="100" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="kurs_Users">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_role" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_kurs_Client_kurs_Users">
+    <End Role="kurs_Users" Type="Self.kurs_Users" Multiplicity="1" />
+    <End Role="kurs_Client" Type="Self.kurs_Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Users">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="kurs_Client">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_Medicine_kurs_Category">
+    <End Role="kurs_Category" Type="Self.kurs_Category" Multiplicity="1" />
+    <End Role="kurs_Medicine" Type="Self.kurs_Medicine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Category">
+        <PropertyRef Name="id_category" />
+      </Principal>
+      <Dependent Role="kurs_Medicine">
+        <PropertyRef Name="id_category" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_Medicine_kurs_Supplier">
+    <End Role="kurs_Supplier" Type="Self.kurs_Supplier" Multiplicity="1" />
+    <End Role="kurs_Medicine" Type="Self.kurs_Medicine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Supplier">
+        <PropertyRef Name="id_supplier" />
+      </Principal>
+      <Dependent Role="kurs_Medicine">
+        <PropertyRef Name="id_supplier" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_Order_kurs_Client">
+    <End Role="kurs_Client" Type="Self.kurs_Client" Multiplicity="0..1" />
+    <End Role="kurs_Order" Type="Self.kurs_Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Client">
+        <PropertyRef Name="id_client" />
+      </Principal>
+      <Dependent Role="kurs_Order">
+        <PropertyRef Name="id_client" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_Order_kurs_Status">
+    <End Role="kurs_Status" Type="Self.kurs_Status" Multiplicity="1" />
+    <End Role="kurs_Order" Type="Self.kurs_Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Status">
+        <PropertyRef Name="id_status" />
+      </Principal>
+      <Dependent Role="kurs_Order">
+        <PropertyRef Name="id_status" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_OrderSostav_kurs_Medicine">
+    <End Role="kurs_Medicine" Type="Self.kurs_Medicine" Multiplicity="1" />
+    <End Role="kurs_OrderSostav" Type="Self.kurs_OrderSostav" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Medicine">
+        <PropertyRef Name="id_Medicine" />
+      </Principal>
+      <Dependent Role="kurs_OrderSostav">
+        <PropertyRef Name="id_medicine" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_OrderSostav_kurs_Order">
+    <End Role="kurs_Order" Type="Self.kurs_Order" Multiplicity="1" />
+    <End Role="kurs_OrderSostav" Type="Self.kurs_OrderSostav" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Order">
+        <PropertyRef Name="id_order" />
+      </Principal>
+      <Dependent Role="kurs_OrderSostav">
+        <PropertyRef Name="id_order" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_kurs_Users_kurs_Role">
+    <End Role="kurs_Role" Type="Self.kurs_Role" Multiplicity="1" />
+    <End Role="kurs_Users" Type="Self.kurs_Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="kurs_Role">
+        <PropertyRef Name="id_role" />
+      </Principal>
+      <Dependent Role="kurs_Users">
+        <PropertyRef Name="id_role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище user11_dbModelContainer">
+    <EntitySet Name="kurs_Category" EntityType="Self.kurs_Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Client" EntityType="Self.kurs_Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Medicine" EntityType="Self.kurs_Medicine" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Order" EntityType="Self.kurs_Order" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_OrderSostav" EntityType="Self.kurs_OrderSostav" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Role" EntityType="Self.kurs_Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Status" EntityType="Self.kurs_Status" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Supplier" EntityType="Self.kurs_Supplier" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="kurs_Users" EntityType="Self.kurs_Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_kurs_Client_kurs_Users" Association="Self.FK_kurs_Client_kurs_Users">
+      <End Role="kurs_Users" EntitySet="kurs_Users" />
+      <End Role="kurs_Client" EntitySet="kurs_Client" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_Medicine_kurs_Category" Association="Self.FK_kurs_Medicine_kurs_Category">
+      <End Role="kurs_Category" EntitySet="kurs_Category" />
+      <End Role="kurs_Medicine" EntitySet="kurs_Medicine" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_Medicine_kurs_Supplier" Association="Self.FK_kurs_Medicine_kurs_Supplier">
+      <End Role="kurs_Supplier" EntitySet="kurs_Supplier" />
+      <End Role="kurs_Medicine" EntitySet="kurs_Medicine" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_Order_kurs_Client" Association="Self.FK_kurs_Order_kurs_Client">
+      <End Role="kurs_Client" EntitySet="kurs_Client" />
+      <End Role="kurs_Order" EntitySet="kurs_Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_Order_kurs_Status" Association="Self.FK_kurs_Order_kurs_Status">
+      <End Role="kurs_Status" EntitySet="kurs_Status" />
+      <End Role="kurs_Order" EntitySet="kurs_Order" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_OrderSostav_kurs_Medicine" Association="Self.FK_kurs_OrderSostav_kurs_Medicine">
+      <End Role="kurs_Medicine" EntitySet="kurs_Medicine" />
+      <End Role="kurs_OrderSostav" EntitySet="kurs_OrderSostav" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_OrderSostav_kurs_Order" Association="Self.FK_kurs_OrderSostav_kurs_Order">
+      <End Role="kurs_Order" EntitySet="kurs_Order" />
+      <End Role="kurs_OrderSostav" EntitySet="kurs_OrderSostav" />
+    </AssociationSet>
+    <AssociationSet Name="FK_kurs_Users_kurs_Role" Association="Self.FK_kurs_Users_kurs_Role">
+      <End Role="kurs_Role" EntitySet="kurs_Role" />
+      <End Role="kurs_Users" EntitySet="kurs_Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

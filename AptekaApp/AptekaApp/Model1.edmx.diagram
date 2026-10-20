@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f90fe7fd5380426eb3fa949b2855fc95" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Category" Width="1.5" PointX="5.25" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Client" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Medicine" Width="1.5" PointX="7.5" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Order" Width="1.5" PointX="7.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_OrderSostav" Width="1.5" PointX="9.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Role" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Status" Width="1.5" PointX="5.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Supplier" Width="1.5" PointX="5.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="user11_dbModel.kurs_Users" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Medicine_kurs_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Client_kurs_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Order_kurs_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Medicine_kurs_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_OrderSostav_kurs_Medicine" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Order_kurs_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_OrderSostav_kurs_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="user11_dbModel.FK_kurs_Users_kurs_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

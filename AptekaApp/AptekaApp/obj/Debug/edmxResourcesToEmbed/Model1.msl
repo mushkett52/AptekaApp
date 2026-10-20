@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user11_dbModelContainer" CdmEntityContainer="user11_dbEntities1">
+    <EntitySetMapping Name="kurs_Category">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Category">
+        <MappingFragment StoreEntitySet="kurs_Category">
+          <ScalarProperty Name="id_category" ColumnName="id_category" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Client">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Client">
+        <MappingFragment StoreEntitySet="kurs_Client">
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Adress" ColumnName="Adress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Medicine">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Medicine">
+        <MappingFragment StoreEntitySet="kurs_Medicine">
+          <ScalarProperty Name="imageUrl" ColumnName="imageUrl" />
+          <ScalarProperty Name="id_Medicine" ColumnName="id_Medicine" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="manufacturer" ColumnName="manufacturer" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="expDate" ColumnName="expDate" />
+          <ScalarProperty Name="prescription" ColumnName="prescription" />
+          <ScalarProperty Name="id_supplier" ColumnName="id_supplier" />
+          <ScalarProperty Name="id_category" ColumnName="id_category" />
+          <ScalarProperty Name="minAmount" ColumnName="minAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Order">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Order">
+        <MappingFragment StoreEntitySet="kurs_Order">
+          <ScalarProperty Name="id_order" ColumnName="id_order" />
+          <ScalarProperty Name="id_client" ColumnName="id_client" />
+          <ScalarProperty Name="orderDate" ColumnName="orderDate" />
+          <ScalarProperty Name="sum" ColumnName="sum" />
+          <ScalarProperty Name="id_status" ColumnName="id_status" />
+          <ScalarProperty Name="orderNumber" ColumnName="orderNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_OrderSostav">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_OrderSostav">
+        <MappingFragment StoreEntitySet="kurs_OrderSostav">
+          <ScalarProperty Name="id_sostav" ColumnName="id_sostav" />
+          <ScalarProperty Name="id_order" ColumnName="id_order" />
+          <ScalarProperty Name="id_medicine" ColumnName="id_medicine" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Role">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Role">
+        <MappingFragment StoreEntitySet="kurs_Role">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Status">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Status">
+        <MappingFragment StoreEntitySet="kurs_Status">
+          <ScalarProperty Name="id_status" ColumnName="id_status" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Supplier">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Supplier">
+        <MappingFragment StoreEntitySet="kurs_Supplier">
+          <ScalarProperty Name="id_supplier" ColumnName="id_supplier" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="ContactPerson" ColumnName="ContactPerson" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kurs_Users">
+      <EntityTypeMapping TypeName="user11_dbModel.kurs_Users">
+        <MappingFragment StoreEntitySet="kurs_Users">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,20 @@
+﻿AptekaApp
+
+
+winexe
+C#
+.cs
+C:\IS1-41\МДК 05.02\Курсовой проект\AptekaApp\AptekaApp\obj\Debug\
+AptekaApp
+none
+false
+DEBUG;TRACE
+C:\IS1-41\МДК 05.02\Курсовой проект\AptekaApp\AptekaApp\App.xaml
+13-1419303234
+2-1957146511
+31-1681011427
+18-1663924503
+AdminWindow.xaml;AdminPages\CategoriesPage.xaml;AdminPages\ClientsPage.xaml;ClientWindow.xaml;DisplayWindow.xaml;LoginWindow.xaml;MainWindow.xaml;AdminPages\MedicinesPage.xaml;AdminPages\SuppliersPage.xaml;AdminPages\OrdersPage.xaml;OrderCompositionWindow.xaml;OrderSuccessWindow.xaml;WelcomeWindow.xaml;
+
+False
+

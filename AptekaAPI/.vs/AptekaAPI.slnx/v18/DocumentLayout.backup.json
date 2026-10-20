@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\aptekaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\aptekaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\data\\aptekacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\data\\aptekacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursordersostav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursordersostav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kurssupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kurssupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kurscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kurscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|c:\\is1-41\\\u043C\u0434\u043A 05.02\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\aptekaapi\\aptekaapi\\models\\kursrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB9060-B2C7-A7E6-7AC8-4775C8B01C8B}|AptekaAPI\\AptekaAPI.csproj|solutionrelative:aptekaapi\\models\\kursrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AptekaAPI\\appsettings.json",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\appsettings.json",
+              "RelativeToolTip": "AptekaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T17:32:48.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Program.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Program.cs",
+              "RelativeToolTip": "AptekaAPI\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwFQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:32:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\OrdersController.cs*",
+              "RelativeToolTip": "AptekaAPI\\Controllers\\OrdersController.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAxwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:34:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AptekaAPI.csproj",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\AptekaAPI.csproj",
+              "RelativeDocumentMoniker": "AptekaAPI\\AptekaAPI.csproj",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\AptekaAPI.csproj",
+              "RelativeToolTip": "AptekaAPI\\AptekaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T17:38:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicinesController.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\MedicinesController.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Controllers\\MedicinesController.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\MedicinesController.cs",
+              "RelativeToolTip": "AptekaAPI\\Controllers\\MedicinesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:33:50.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AptekaAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:33:28.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AptekaContext.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Data\\AptekaContext.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Data\\AptekaContext.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Data\\AptekaContext.cs",
+              "RelativeToolTip": "AptekaAPI\\Data\\AptekaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:32:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KursOrderSostav.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursOrderSostav.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursOrderSostav.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursOrderSostav.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursOrderSostav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:31:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KursOrder.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursOrder.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursOrder.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursOrder.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:31:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KursMedicine.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursMedicine.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursMedicine.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursMedicine.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursMedicine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:31:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KursStatus.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursStatus.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursStatus.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursStatus.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:31:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KursSupplier.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursSupplier.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursSupplier.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursSupplier.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursSupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:30:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KursCategory.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursCategory.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursCategory.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursCategory.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:30:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KursClient.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursClient.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursClient.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursClient.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursClient.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:30:25.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KursUser.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursUser.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursUser.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursUser.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:30:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KursRole.cs",
+              "DocumentMoniker": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursRole.cs",
+              "RelativeDocumentMoniker": "AptekaAPI\\Models\\KursRole.cs",
+              "ToolTip": "C:\\IS1-41\\\u041C\u0414\u041A 05.02\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\AptekaAPI\\AptekaAPI\\Models\\KursRole.cs",
+              "RelativeToolTip": "AptekaAPI\\Models\\KursRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:29:47.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
